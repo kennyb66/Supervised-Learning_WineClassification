@@ -1,0 +1,12 @@
+Naive Bayes Accuracies
+Run 1: 0.6169
+Run 2: 0.6238
+Run 3: 0.6262
+Run 4: 0.6215
+Run 5: 0.6346
+Run 6: 0.6269
+Run 7: 0.6138
+Run 8: 0.6408
+Run 9: 0.6777
+Run 10: 0.6569
+Average Accuracy: 0.6339
