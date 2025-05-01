@@ -1,0 +1,12 @@
+Random Forest Accuracies
+Run 1: 0.8177
+Run 2: 0.8400
+Run 3: 0.8000
+Run 4: 0.8154
+Run 5: 0.8085
+Run 6: 0.8146
+Run 7: 0.7900
+Run 8: 0.8054
+Run 9: 0.8092
+Run 10: 0.8100
+Average Accuracy: 0.8111
